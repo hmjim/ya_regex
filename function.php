@@ -1,6 +1,5 @@
 <?php
 /**
- * @autor hmjm
  * @param string $str
  * @return array
  */
